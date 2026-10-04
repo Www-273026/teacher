@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title id="title">中国非晶态合金发展趋势：2026观察</title>
+  <desc id="desc">以2024年行业公开数据为基准，展示中国铁基非晶与纳米晶材料的产业基础、应用方向及2025至2026趋势研判。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071a2c"/>
+      <stop offset="1" stop-color="#102d43"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38d9c2"/>
+      <stop offset="1" stop-color="#74e0a5"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#8bb0c4" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <style>
+      text { font-family: "Noto Sans CJK SC", "Microsoft YaHei", "PingFang SC", sans-serif; }
+      .muted { fill: #a8bfcc; }
+      .white { fill: #f4f8fa; }
+      .mint { fill: #52dfc2; }
+      .label { font-size: 18px; font-weight: 600; letter-spacing: 2px; }
+      .body { font-size: 20px; }
+      .small { font-size: 15px; }
+    </style>
+  </defs>
+  <rect width="1600" height="1100" fill="url(#bg)"/>
+  <rect width="1600" height="1100" fill="url(#grid)"/>
+
+  <g transform="translate(96 72)">
+    <rect width="72" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="0" y="48" class="mint label">产业观察 / MATERIALS OUTLOOK</text>
+    <text x="0" y="119" class="white" font-size="54" font-weight="700">中国非晶态合金</text>
+    <text x="0" y="178" class="white" font-size="54" font-weight="700">发展趋势</text>
+    <text x="2" y="222" class="muted" font-size="22">从节能电力材料，走向高频化、系统化与多场景应用</text>
+    <rect x="1235" y="18" width="170" height="64" rx="32" fill="#17394c" stroke="#3d6878"/>
+    <circle cx="1269" cy="50" r="7" fill="#52dfc2"/>
+    <text x="1291" y="58" class="white" font-size="24" font-weight="700">2026 观察</text>
+    <text x="1240" y="118" class="muted small">铁基非晶 · 纳米晶</text>
+  </g>
+
+  <g transform="translate(96 342)">
+    <rect width="1408" height="266" rx="24" fill="#102a3e" stroke="#2b4b5f"/>
+    <text x="36" y="48" class="mint label">产业基础｜2024 年公开行业数据</text>
+    <text x="36" y="80" class="muted small">中国非晶材料已具备规模化制造基础</text>
+    <line x1="36" y1="105" x2="1372" y2="105" stroke="#315064"/>
+
+    <g transform="translate(38 132)">
+      <text x="0" y="20" class="muted body">铁基非晶带材</text>
+      <text x="0" y="81" class="white" font-size="46" font-weight="700">14.5<tspan class="mint" font-size="25"> 万吨</tspan></text>
+      <text x="0" y="115" class="muted small">年度产量（约）</text>
+      <text x="0" y="151" fill="#7391a2" class="small">设计产能约 19 万吨</text>
+    </g>
+    <line x1="470" y1="133" x2="470" y2="280" stroke="#315064"/>
+    <g transform="translate(510 132)">
+      <text x="0" y="20" class="muted body">纳米晶材料</text>
+      <text x="0" y="81" class="white" font-size="46" font-weight="700">4<tspan class="mint" font-size="25"> 万吨</tspan></text>
+      <text x="0" y="115" class="muted small">年度产能（约）</text>
+      <text x="0" y="151" fill="#7391a2" class="small">面向高频软磁器件</text>
+    </g>
+    <line x1="930" y1="133" x2="930" y2="280" stroke="#315064"/>
+    <g transform="translate(972 132)">
+      <text x="0" y="20" class="muted body">产业化抓手</text>
+      <text x="0" y="66" class="white" font-size="25" font-weight="700">节能降损 × 高频需求</text>
+      <text x="0" y="105" class="muted small">配电变压器是成熟应用；新能源、</text>
+      <text x="0" y="133" class="muted small">电动汽车与电力电子带来增量场景。</text>
+      <text x="0" y="169" fill="#7391a2" class="small">关注材料性能、成本与稳定量产</text>
+    </g>
+  </g>
+
+  <g transform="translate(96 647)">
+    <text x="0" y="0" class="mint label">2024—2026｜趋势演进</text>
+    <text x="0" y="36" class="muted small">从“材料供给”到“应用解决方案”</text>
+    <line x1="45" y1="99" x2="1350" y2="99" stroke="#477084" stroke-width="3"/>
+    <path d="M1350 91l16 8-16 8" fill="none" stroke="#52dfc2" stroke-width="3"/>
+
+    <g transform="translate(0 75)">
+      <circle cx="46" cy="24" r="11" fill="#52dfc2"/>
+      <text x="0" y="65" class="white" font-size="22" font-weight="700">规模制造</text>
+      <text x="0" y="96" class="muted small">带材与磁芯产能基础</text>
+      <text x="0" y="121" class="muted small">持续巩固</text>
+    </g>
+    <g transform="translate(365 75)">
+      <circle cx="46" cy="24" r="11" fill="#52dfc2"/>
+      <text x="0" y="65" class="white" font-size="22" font-weight="700">工艺升级</text>
+      <text x="0" y="96" class="muted small">薄带、宽幅与一致性</text>
+      <text x="0" y="121" class="muted small">提升制造良率</text>
+    </g>
+    <g transform="translate(730 75)">
+      <circle cx="46" cy="24" r="11" fill="#52dfc2"/>
+      <text x="0" y="65" class="white" font-size="22" font-weight="700">场景扩展</text>
+      <text x="0" y="96" class="muted small">电网节能、光储、电驱</text>
+      <text x="0" y="121" class="muted small">及高频电源等方向</text>
+    </g>
+    <g transform="translate(1095 75)">
+      <circle cx="46" cy="24" r="11" fill="#52dfc2"/>
+      <text x="0" y="65" class="white" font-size="22" font-weight="700">价值升级</text>
+      <text x="0" y="96" class="muted small">由材料销售走向器件</text>
+      <text x="0" y="121" class="muted small">与定制化解决方案</text>
+    </g>
+  </g>
+
+  <g transform="translate(96 900)">
+    <rect width="1408" height="92" rx="18" fill="#15384a" stroke="#346273"/>
+    <rect x="0" y="0" width="7" height="92" rx="3" fill="url(#accent)"/>
+    <text x="30" y="37" class="white" font-size="20" font-weight="700">至 2026 年的判断</text>
+    <text x="30" y="68" class="muted" font-size="17">需求端受电网能效与新能源电力电子拉动；竞争焦点转向高性能制造、成本控制和下游协同。</text>
+    <text x="1170" y="37" class="mint small" font-weight="700">定性趋势研判</text>
+    <text x="1170" y="65" class="muted small">非官方市场预测</text>
+  </g>
+
+  <text x="98" y="1030" fill="#91aab8" font-size="14">数据：非晶合金材料应用分会《2024年度行业发展情况》（2025年发布）；趋势判断为定性整理。</text>
+  <a xlink:href="https://www.ceeia.com/XHDT/d/202504/2bafa50dc7d7482bb77ddf0b54c776c7.html">
+    <text x="98" y="1055" fill="#52dfc2" font-size="13">来源：ceeia.com · 中国电器工业协会非晶合金材料应用分会</text>
+  </a>
+  <text x="1500" y="1055" text-anchor="end" fill="#6f8b9a" font-size="13">趋势研判不等同于确定性预测</text>
+</svg>
