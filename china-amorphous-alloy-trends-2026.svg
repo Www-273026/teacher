@@ -39,7 +39,7 @@
   </g>
 
   <g transform="translate(96 342)">
-    <rect width="1408" height="266" rx="24" fill="#102a3e" stroke="#2b4b5f"/>
+    <rect width="1408" height="330" rx="24" fill="#102a3e" stroke="#2b4b5f"/>
     <text x="36" y="48" class="mint label">产业基础｜2024 年公开行业数据</text>
     <text x="36" y="80" class="muted small">中国非晶材料已具备规模化制造基础</text>
     <line x1="36" y1="105" x2="1372" y2="105" stroke="#315064"/>
@@ -67,7 +67,7 @@
     </g>
   </g>
 
-  <g transform="translate(96 647)">
+  <g transform="translate(96 697)">
     <text x="0" y="0" class="mint label">2024—2026｜趋势演进</text>
     <text x="0" y="36" class="muted small">从“材料供给”到“应用解决方案”</text>
     <line x1="45" y1="99" x2="1350" y2="99" stroke="#477084" stroke-width="3"/>
@@ -99,7 +99,7 @@
     </g>
   </g>
 
-  <g transform="translate(96 900)">
+  <g transform="translate(96 922)">
     <rect width="1408" height="92" rx="18" fill="#15384a" stroke="#346273"/>
     <rect x="0" y="0" width="7" height="92" rx="3" fill="url(#accent)"/>
     <text x="30" y="37" class="white" font-size="20" font-weight="700">至 2026 年的判断</text>
